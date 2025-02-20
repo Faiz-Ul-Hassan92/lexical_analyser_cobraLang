@@ -1,0 +1,17 @@
+func void main()
+{
+    var inte   number,another, something== +220,+240, -260.9384@-40;;;+34@0,   @+1;
+    const char letter = 'a';
+    var deci expr = (7/ 2.6) + 4   *(-75.08);
+    #some &more code
+    here it is
+    #
+    const string text  = "What is going
+ on?";
+    ret 0;
+}
+#ending
+the
+the
+program
+#
